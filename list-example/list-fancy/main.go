@@ -152,12 +152,15 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 			newListItems = append(newListItems, item)
 		}
 		m.list.SetItems(newListItems)
-		return m, nil
+		return m, tea.Batch(tick())
 	default:
 		// Handle other messages (e.g., key presses)
 	}
 
 	switch msg := msg.(type) {
+	case tickMsg:
+		return m, nil
+
 	case tea.WindowSizeMsg:
 		h, v := appStyle.GetFrameSize()
 		m.list.SetSize(msg.Width-h, msg.Height-v)
@@ -202,16 +205,14 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 					// Handle successful deletion, UI will update from WebSocket broadcast
 				}
 			}
-			return m, nil
+			//return m, nil
+			return m, tea.Batch(tick())
 
 		case key.Matches(msg, m.keys.insertItem):
-			// Here, you would capture or define the title and description for the new prompt
-			// For now, let's use placeholder values
-			title := "New Prompt Title"
-			description := "New Prompt Description"
+			newPrompt := m.itemGenerator.next()
 
 			// Send the insert request to the backend
-			err := insertPrompt(title, description)
+			err := insertPrompt(newPrompt.Title, newPrompt.Description)
 			if err != nil {
 				log.Println("Error inserting new prompt:", err)
 			} else {
@@ -219,7 +220,7 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 			}
 
 			// Return the model as is because the actual update will be handled via WebSocket
-			return m, nil
+			return m, tea.Batch(tick())
 		}
 	}
 
@@ -236,6 +237,19 @@ func (m model) View() string {
 }
 
 var wsConn *websocket.Conn
+
+// NoOpCmd does nothing but causes an update.
+func NoOpCmd() tea.Msg {
+	return nil // simply return nil, but as a command
+}
+
+type tickMsg struct{}
+
+func tick() tea.Cmd {
+	return tea.Tick(time.Millisecond, func(t time.Time) tea.Msg {
+		return tickMsg{}
+	})
+}
 
 func deletePrompt(id int) error {
 	// Construct the URL with the prompt ID
