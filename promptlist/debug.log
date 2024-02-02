@@ -1,0 +1,160 @@
+debug 2023/12/30 23:36:14 {}
+debug 2023/12/30 23:36:27 {}
+debug 2023/12/30 23:36:29 {}
+debug 2023/12/30 23:36:29 {}
+debug 2023/12/30 23:36:30 {}
+debug 2023/12/30 23:36:34 {}
+debug 2023/12/30 23:36:34 {}
+debug 2023/12/30 23:36:34 {}
+debug 2023/12/30 23:36:34 {}
+2023/12/30 23:39:44 {}
+2023/12/30 23:39:44 {}
+2023/12/30 23:39:44 {}
+2023/12/30 23:40:02 {}
+2023/12/30 23:40:04 {}
+2023/12/30 23:40:38 json {}
+2023/12/30 23:40:38 json {}
+2023/12/30 23:42:49 json {} New Prompt Title New Prompt Description
+2023/12/30 23:42:50 json {} New Prompt Title New Prompt Description
+2023/12/31 00:00:30 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:00:42 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:08:22 Error reading from WebSocket: websocket: close 1012
+2023/12/31 00:08:46 Error fetching initial prompts: invalid character 'I' looking for beginning of value
+2023/12/31 00:08:50 Error fetching initial prompts: invalid character 'I' looking for beginning of value
+2023/12/31 00:09:19 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:11:58 Error reading from WebSocket: websocket: close 1012
+2023/12/31 00:12:09 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:12:15 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:12:15 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:12:15 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:28:01 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:33:09 Error reading from WebSocket: websocket: close 1012
+2023/12/31 00:36:53 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:36:58 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:37:00 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:37:00 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:37:00 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:40:29 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:42:04 Error reading from WebSocket: websocket: close 1012
+2023/12/31 00:42:34 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:43:29 Error reading from WebSocket: websocket: close 1011 (internal server error): keepalive ping timeout
+2023/12/31 00:43:35 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:43:39 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:43:40 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:43:47 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:47:28 Error reading from WebSocket: write tcp 127.0.0.1:51668->127.0.0.1:8000: write: broken pipe
+2023/12/31 00:47:36 json {"title":"New Prompt Title","description":"New Prompt Description"} New Prompt Title New Prompt Description
+2023/12/31 00:51:37 Error reading from WebSocket: websocket: close 1012
+2023/12/31 01:02:25 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:02:26 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:02:30 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:02:31 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:02:43 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:02:44 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:26:18 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:26:30 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:26:34 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:29:41 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:29:52 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:30:47 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:33:10 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:34:09 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:34:10 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:34:13 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:34:15 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:34:15 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:34:16 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:34:29 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:34:30 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:34:30 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:39:16 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:39:17 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:39:30 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:39:31 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:39:31 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:39:32 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:39:32 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:39:33 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:40:20 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:40:21 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:40:23 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:40:23 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:45:21 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:45:25 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:45:25 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:45:25 json {"title":"New Prompt Title","description":"New Prompt Description","id":0} New Prompt Title New Prompt Description
+2023/12/31 01:48:15 json {"title":"Pineapple","description":"A little weird","id":0} Pineapple A little weird
+2023/12/31 01:48:16 json {"title":"Artichoke","description":"Gimme","id":0} Artichoke Gimme
+2023/12/31 01:48:24 json {"title":"Honey Dew","description":"Looks good to me","id":0} Honey Dew Looks good to me
+2023/12/31 01:48:24 json {"title":"Star Anise","description":"Really fresh","id":0} Star Anise Really fresh
+2023/12/31 01:49:55 json {"title":"Horseradish","description":"Maybe not","id":0} Horseradish Maybe not
+2023/12/31 01:49:55 json {"title":"Eggs","description":"Delectable","id":0} Eggs Delectable
+2023/12/31 01:49:57 json {"title":"Barley","description":"Salty","id":0} Barley Salty
+2023/12/31 01:49:57 json {"title":"Black Cod","description":"Can’t get enough","id":0} Black Cod Can’t get enough
+2023/12/31 01:50:05 json {"title":"Olives","description":"Kind of spicy","id":0} Olives Kind of spicy
+2023/12/31 01:50:09 json {"title":"Niagamo Root","description":"Maybe","id":0} Niagamo Root Maybe
+2023/12/31 01:50:10 json {"title":"Fish Cake","description":"Slightly sweet","id":0} Fish Cake Slightly sweet
+2023/12/31 01:50:43 json {"title":"Baking Flour","description":"My favorite","id":0} Baking Flour My favorite
+2023/12/31 01:50:43 json {"title":"Horseradish","description":"Scrumptious","id":0} Horseradish Scrumptious
+2023/12/31 10:41:31 json {"title":"Nutella","description":"Questionable","id":0} Nutella Questionable
+2023/12/31 10:41:57 json {"title":"Artichoke","description":"Wow","id":0} Artichoke Wow
+2023/12/31 10:41:58 json {"title":"Dried Shrimp","description":"Smells great","id":0} Dried Shrimp Smells great
+2023/12/31 10:42:06 json {"title":"Muesli","description":"What?","id":0} Muesli What?
+2023/12/31 10:42:29 json {"title":"Blood Orange","description":"Exquisite","id":0} Blood Orange Exquisite
+2023/12/31 10:42:29 json {"title":"Furikake","description":"Organic","id":0} Furikake Organic
+2023/12/31 10:42:29 json {"title":"Persian Lemons","description":"Tasty","id":0} Persian Lemons Tasty
+2023/12/31 10:42:29 json {"title":"Cashews","description":"In season","id":0} Cashews In season
+2023/12/31 10:42:53 json {"title":"Pickle","description":"On sale","id":0} Pickle On sale
+2023/12/31 10:42:53 json {"title":"Bitter Melon","description":"At last","id":0} Bitter Melon At last
+2023/12/31 10:42:53 json {"title":"Milk","description":"Salty","id":0} Milk Salty
+2023/12/31 10:43:07 json {"title":"Yuzu","description":"Bold flavor","id":0} Yuzu Bold flavor
+2023/12/31 10:43:07 json {"title":"Cashews","description":"Maybe","id":0} Cashews Maybe
+2023/12/31 10:43:07 json {"title":"Jicama","description":"Maybe not","id":0} Jicama Maybe not
+2023/12/31 10:43:19 json {"title":"Curry Paste","description":"Too ripe","id":0} Curry Paste Too ripe
+2023/12/31 10:43:20 json {"title":"Nopal","description":"Kind of spicy","id":0} Nopal Kind of spicy
+2023/12/31 10:43:20 json {"title":"Yeast","description":"Really fresh","id":0} Yeast Really fresh
+2023/12/31 10:43:20 json {"title":"Bean Sprouts","description":"What?","id":0} Bean Sprouts What?
+2023/12/31 10:43:20 json {"title":"Nutella","description":"Yum","id":0} Nutella Yum
+2023/12/31 10:43:20 json {"title":"Cashew Apple","description":"A little weird","id":0} Cashew Apple A little weird
+2023/12/31 10:43:21 json {"title":"Leeks","description":"Oh my","id":0} Leeks Oh my
+2023/12/31 10:43:21 json {"title":"Nectarine","description":"Exquisite","id":0} Nectarine Exquisite
+2023/12/31 10:43:32 Error reading from WebSocket: write tcp 127.0.0.1:52045->127.0.0.1:8000: write: broken pipe
+2023/12/31 10:48:11 json {"title":"Cashews","description":"Kind of spicy","id":0} Cashews Kind of spicy
+2023/12/31 10:48:12 json {"title":"Watermelon","description":"Smells great","id":0} Watermelon Smells great
+2023/12/31 10:48:12 json {"title":"Party Gherkin","description":"Slightly sweet","id":0} Party Gherkin Slightly sweet
+2023/12/31 11:14:20 json {"title":"Lentils","description":"Really fresh","id":0} Lentils Really fresh
+2023/12/31 11:14:20 json {"title":"Olives","description":"Too ripe","id":0} Olives Too ripe
+2023/12/31 11:14:22 json {"title":"Persian Lemons","description":"Maybe not","id":0} Persian Lemons Maybe not
+2023/12/31 11:14:22 json {"title":"Grapefruit","description":"On sale","id":0} Grapefruit On sale
+2023/12/31 11:14:22 json {"title":"Pocky","description":"Fresh","id":0} Pocky Fresh
+2024/01/02 00:11:08 json {"title":"Oat Milk","description":"Exquisite","id":0} Oat Milk Exquisite
+2024/01/02 00:11:12 json {"title":"Furikake","description":"Expensive","id":0} Furikake Expensive
+2024/01/02 00:11:12 json {"title":"Dried Shrimp","description":"Maybe","id":0} Dried Shrimp Maybe
+2024/01/02 00:11:12 json {"title":"Granulated Sugar","description":"Bold flavor","id":0} Granulated Sugar Bold flavor
+2024/01/02 00:11:29 json {"title":"Pineapple","description":"Can’t get enough","id":0} Pineapple Can’t get enough
+2024/01/02 00:11:29 json {"title":"Star Anise","description":"At last","id":0} Star Anise At last
+2024/01/02 00:11:30 json {"title":"Sweet Potato","description":"Tasty","id":0} Sweet Potato Tasty
+2024/01/02 00:12:00 json {"title":"Dill","description":"Wow","id":0} Dill Wow
+2024/01/02 00:12:01 json {"title":"Dragonfruit","description":"Delectable","id":0} Dragonfruit Delectable
+2024/01/02 00:12:05 json {"title":"Pickle","description":"Oh my","id":0} Pickle Oh my
+2024/01/02 00:12:09 json {"title":"Coconut Milk","description":"Looks fresh","id":0} Coconut Milk Looks fresh
+2024/01/02 00:12:09 json {"title":"Hazelnuts","description":"Delectable","id":0} Hazelnuts Delectable
+2024/01/02 00:12:09 json {"title":"Quince","description":"Scrumptious","id":0} Quince Scrumptious
+2024/01/02 00:12:09 json {"title":"Cat Food","description":"Refreshing","id":0} Cat Food Refreshing
+2024/01/02 00:12:10 json {"title":"Bananas","description":"What?","id":0} Bananas What?
+2024/01/02 00:12:11 json {"title":"Unsalted Butter","description":"My favorite","id":0} Unsalted Butter My favorite
+2024/01/02 00:12:11 json {"title":"Kohlrabi","description":"Salty","id":0} Kohlrabi Salty
+2024/01/02 00:12:11 json {"title":"Radish","description":"Yum","id":0} Radish Yum
+2024/01/02 00:12:11 json {"title":"Blood Orange","description":"Organic","id":0} Blood Orange Organic
+2024/01/02 00:12:11 json {"title":"Ramps","description":"Looks good to me","id":0} Ramps Looks good to me
+2024/01/02 00:12:12 json {"title":"Meyer Lemons","description":"Gimme","id":0} Meyer Lemons Gimme
+2024/01/02 00:12:12 json {"title":"Plantains","description":"A little weird","id":0} Plantains A little weird
+2024/01/02 00:12:12 json {"title":"Tamarind","description":"Expired","id":0} Tamarind Expired
+2024/01/02 00:13:28 json {"title":"Black Cod","description":"Sure, why not?","id":0} Black Cod Sure, why not?
+2024/01/03 08:39:21 Error reading from WebSocket: write tcp 127.0.0.1:54017->127.0.0.1:8000: write: broken pipe
+2024/02/02 20:02:04 Error fetching initial prompts: invalid character '<' looking for beginning of value
+2024/02/02 20:26:01 json {"title":"Yuzu","description":"Maybe","id":0} Yuzu Maybe
+2024/02/02 20:26:02 json {"title":"Grapefruit","description":"Tasty","id":0} Grapefruit Tasty
+2024/02/02 20:26:04 json {"title":"Horseradish","description":"A little weird","id":0} Horseradish A little weird
+2024/02/02 20:26:04 json {"title":"Powdered Sugar","description":"On sale","id":0} Powdered Sugar On sale
+2024/02/02 20:26:04 json {"title":"Yams","description":"Kind of spicy","id":0} Yams Kind of spicy
