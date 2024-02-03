@@ -1,4 +1,4 @@
-package main
+package promptlist
 
 import (
 	"math/rand"

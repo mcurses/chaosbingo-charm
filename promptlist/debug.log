@@ -158,3 +158,4 @@ debug 2023/12/30 23:36:34 {}
 2024/02/02 20:26:04 json {"title":"Horseradish","description":"A little weird","id":0} Horseradish A little weird
 2024/02/02 20:26:04 json {"title":"Powdered Sugar","description":"On sale","id":0} Powdered Sugar On sale
 2024/02/02 20:26:04 json {"title":"Yams","description":"Kind of spicy","id":0} Yams Kind of spicy
+2024/02/03 10:56:50 Error reading from WebSocket: write tcp 127.0.0.1:57331->127.0.0.1:8000: write: broken pipe

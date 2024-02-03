@@ -1,4 +1,4 @@
-package main
+package promptlist
 
 import (
 	"bytes"
@@ -221,6 +221,11 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 
 			// Return the model as is because the actual update will be handled via WebSocket
 			return m, tea.Batch(tick())
+
+		case msg.String() == "q": // or case key.Matches(msg, yourQuitKeyBinding):
+			log.Println("quitting")
+			return m, tea.Quit
+
 		}
 	}
 
@@ -338,7 +343,7 @@ func fetchInitialPrompts() ([]Prompt, error) {
 	return prompts, nil
 }
 
-func main() {
+func Start() {
 
 	// Open or create the file
 	file, err := os.OpenFile("debug.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
